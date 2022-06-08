@@ -1,5 +1,5 @@
 ---
-title: "R Notebook Phil Bowsher Leia"
+title: "R Notebook Phil Bowsher Leia Organa"
 output: html_notebook
 ---
 
